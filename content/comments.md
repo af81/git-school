@@ -8,5 +8,5 @@ Führe folgende Schritte aus:
 
 ### Git-Held:innen
 - StegoBlopp55
-- ...
+- TyranoZap12
 - ...
